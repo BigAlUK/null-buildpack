@@ -1,2 +1,4 @@
 #!/usr/bin/env bash
 echo "Null Buildpack"
+
+echo $BUILD_DIR
